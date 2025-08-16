@@ -1,0 +1,7 @@
+stability_threshold: 0.72
+ucb1_exploration: 1.41421356237
+memory_ttl:
+  short: 2h
+  long: 30d
+  latent: 90d
+  parasitic: 180d
