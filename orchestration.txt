@@ -1,0 +1,2 @@
+L'orchestration multi-agents améliore la robustesse et la performance.
+Le choix des modules peut être appris via bandits (UCB1) selon la récompense observée.

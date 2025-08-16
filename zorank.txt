@@ -1,0 +1,3 @@
+ZoranK est un noyau d'orchestration multi-agents minimaliste.
+Il combine un bandit UCB1, une garde ΔM11.3, une mémoire fractale, et un quorum.
+Le module K-Index fournit une recherche simple par index inversé.
